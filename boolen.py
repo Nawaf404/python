@@ -51,6 +51,6 @@ print(a > b or b < a) # false
 # not
 
 print(not (a != 5)) # true
-print(not (a == 5) # true)
+print(not (a == 5)) # true)
 # CTRL + / 
 # will be commited multi lines
